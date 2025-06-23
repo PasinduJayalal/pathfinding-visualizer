@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# Pygame / cache files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# OS-specific
+*.swp
+*.swo
+
+# Image cache or screenshots (optional)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# If you want to exclude specific images you use in buttons, comment this section or add only unused ones.
